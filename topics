@@ -1,0 +1,2 @@
+html attribute dataset => data-playerid="1" or data-player-id="1"
+js code => dataset.playerid or dataset["player-id"]
